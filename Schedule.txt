@@ -1,0 +1,57 @@
+Review of any questions or comments from previous classes and/or about your needs as a web developer.
+
+
+
+
+
+CSS Grid
+
+CSS Grid is a 2 Dimensional Layout System which can let us create layouts made up of both ROWS and COLUMNS.
+
+1. Defining Parent/Child relationship in Grid Layout
+
+2. I show an intro to this.
+
+3. Exercise: 
+    open the vsc
+    create a simple parent/child container/items with html
+    apply the grid layout by targeting the elements with css
+
+4. Variations on making the same layout
+    fr, repeat(), grid-template L, column/row/grid gap
+
+5. try out the variations
+
+*****some extra links*****
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://www.w3schools.com/css/css_grid.asp
+
+
+
+6. Positioning Items with Grid Layout
+    define where you want your page items to be located:
+    1st row header 
+    2nd row menu and content 
+    3rd row footer
+
+7. write the html
+
+8. write the css and define start and end
+
+9. group exercise: 
+    repeat the parent/child wrapper/items in html using header, menu, content and footer 
+
+    pre-define where you want each item item to go on the page
+    
+    target each id/class in css and define the start and end for the position 
+
+
+10. showings
+
+
+
+11. additional link to carry on with exercises: 
+template areas, auto-fit, min-max, implicit rows, image grid, named-lines, justify and align content, autofit vs auto fill, article layout, grid vs flexbox
+
+you can sign up with your github or email: https://scrimba.com/learn/cssgrid
